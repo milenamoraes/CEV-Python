@@ -13,9 +13,10 @@
 
 Introdução ao Mundo da Programação
 
-<details>Aula 1 – Seja um Programador</details>
+<details>
+<summary> Aula 1 – Seja um Programador </summary>
 Primeiros passos com o Python 
-
+</details>
 </details>
 
 <details>
