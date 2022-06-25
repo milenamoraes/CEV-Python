@@ -1,0 +1,12 @@
+import MATH (ele importa toda a biblioteca) 
+
+ceil = aredondamento pra cima 
+floor = aredondamento pra baixo
+trunc = eliminar da virgula pra frente sem arredondar 
+pow = potencia 
+sqrt = calcular raiz quadrada 
+factorial = fatorial 
+
+from math import sqrt (ele importa somente a função que solicitou )
+form math import sqrt, ceil (ele importa mais de uma funçao) 
+

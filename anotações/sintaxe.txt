@@ -1,0 +1,3 @@
+print('Soma vale', s)
+
+print('Soma vale {}' .format(s)) 

@@ -1,0 +1,23 @@
+ANÁLISE
+
+len(frase) = o comprimento da frase 
+frase.count('o') = ele conta quantas vezes existe a letra O
+frase.count('o', 0, 13) = ele conta quantas vezes existe a letra O do 0 a 13. 
+frase.find('deo') = ele vai dizer quantas vezes ele encontrou deo 
+'Curso' in frase = existe a palavra curso dentro  da frase?
+--------------------------------------------------------------------------------------
+TRANSFORMAÇÃO DE STRING 
+frase.replace('Python' , 'Android') = ele substitui a palavra python para android. 
+frase.upper() = ele troca letras minuscula para maiuscula 
+frase.lower() = ele troca letras maiuscula para miniscula
+frase.capitalize() = ele coloca só a primeira letra maiuscula e o resto miniscula 
+frase.title() = ele coloca letra maiuscula em todo começo de palavra 
+frase.strip() = ele remove todos os espaços desnecessario da frase 
+frase.rstrip() = ele remove os ultimos espaços 
+frase.lstrip() = ele remove os primeiros espaços 
+----------------------------------------------------------------------------------------
+DIVISÃO 
+frase.split()= ele divide a frase colocando ela em lista de caractere (ex: CURSO EM VIDEO ) 
+-----------------------------------------------------------------------------------------
+JUNÇÃO 
+'-'.join(frase) = ele junta toda a frase colocando um simbolo para separar (ex: CURSO-EM-VIDEO) 
