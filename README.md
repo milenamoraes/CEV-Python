@@ -137,7 +137,8 @@ Aula 11 – Cores no Terminal
 <summary>Teste Python Mundo 1 </summary>
 </details>
 </details>
-<br></br>
+
+---
 
 **O segundo mundo** apresenta as estruturas de repetição, muito importantes para qualquer linguagem, o professor explica sobre os comandos if, else, for e while e suas usabilidades.
 
@@ -245,4 +246,128 @@ Exercício 71 – Simulador de Caixa Eletrônico
 <details>
 <summary> Teste Python Mundo 2 </summary>
 </details>
+</details>
+
 ---
+
+**O terceiro mundo** apresenta as estruturas de dados, muito importantes para qualquer linguagem, o professor explica sobre as estruturas de tuplas, listas, dicionários, além disso, ele também ensina funções, módulos e pacotes. Por mim, o professor ainda aborda tratamentos de erros.
+
+<details>
+<summary> Mundo 3 </summary>
+
+<details>
+<summary> Tuplas em Python </summary>
+
+Aula 16 – Tuplas
+
+Exercício 72 – Número por Extenso
+
+Exercício 73 – Tuplas com Times de Futebol
+
+Exercício 74 – Maior e menor valores em Tupla
+
+Exercício 75 – Análise de dados em uma Tupla
+
+Exercício 76 – Lista de Preços com Tupla
+
+Exercício 77 – Contando vogais em Tupla
+</details>
+
+<details>
+<summary> Listas em Python </summary>
+
+Aula 17 – Listas (Parte 1)
+
+Exercício 78 – Maior e Menor valores na Lista
+
+Exercício 79 – Valores únicos em uma Lista
+
+Exercício 80 – Lista ordenada sem repetições
+
+Exercício 81 – Extraindo dados de uma Lista
+
+Exercício 82 – Dividindo valores em várias listas
+
+Exercício 83 – Validando expressões matemáticas
+
+Aula 18 – Listas (Parte 2)
+
+Exercício 84 – Lista composta e análise de dados
+
+Exercício 85 – Listas com pares e ímpares
+
+Exercício 86 – Matriz em Python
+
+Exercício 87 – Mais sobre Matriz em Python
+
+Exercício 88 – Palpites para a Mega Sena
+
+Exercício 89 – Boletim com listas compostas
+</details>
+
+<details>
+<summary> Dicionários em Python </summary>
+
+Aula 19 – Dicionários
+
+Exercício 90 – Dicionário em Python
+
+Exercício 91 – Jogo de Dados em Python
+
+Exercício 92 – Cadastro de Trabalhador em Python
+
+Exercício 93 – Cadastro de Jogador de Futebol
+
+Exercício 94 – Unindo dicionários e listas
+
+Exercício 95 – Aprimorando os Dicionários
+</details>
+
+<details>
+<summary> Funções em Python </summary>
+
+Aula 20 – Funções (Parte 1)
+
+Exercício 96 – Função que calcula área
+
+Exercício 97 – Um print especial
+
+Exercício 98 – Função de Contador
+
+Exercício 99 – Função que descobre o maior
+
+Exercício 100 – Funções para sortear e somar
+
+Aula 21 – Funções (Parte 2)
+
+Exercício 101 – Funções para votação
+
+Exercício 102 – Função para Fatorial
+
+Exercício 103 – Ficha do Jogador
+
+Exercício 104 – Validando entrada de dados em Python
+
+Exercício 105 – Analisando e gerando Dicionários
+
+Exercício 106 – Interactive helping system in Python
+</details>
+
+<details>
+<summary> Tratamento de Erros em Python </summary>
+Aula 23 – Tratamento de Erros e Exceções
+
+Exercício 113 – Funções aprofundadas em Python
+
+Exercício 114 – Site está acessível?
+
+Exercício 115a – Criando um menu
+
+Exercício 115b – Arquivos com Python
+
+Exercício 115c – Finalizando o projeto
+</details>
+<details>
+<summary>Teste Python 3 – Mundo 3</summary>
+</details>
+</details>
