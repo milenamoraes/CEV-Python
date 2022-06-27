@@ -10,13 +10,11 @@
 
 <details>
 <summary> Mundo 1 </summary>
-
-<summary> Introdução ao Mundo da Programação
-Aula 1 – Seja um Programador  </summary>
-
+</details>
+<details>
+<summary> Introdução ao Mundo da Programação</summary>
 
 <summary> Aula 1 – Seja um Programador </summary>
-Primeiros passos com o Python 
 </details>
 
 
