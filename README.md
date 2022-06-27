@@ -14,12 +14,12 @@
 <summary> Mundo 1 </summary>
 
 <details>
- <summary> Introdução ao Mundo da Programação</summary><
+<summary> Introdução ao Mundo da Programação</summary>
 Aula 1 – Seja um Programador 
 </details>
 
 <details>
- <summary> Primeiros passos com o Python</summary>
+<summary> Primeiros passos com o Python</summary>
 
 Aula 2 – Para que serve o Python?
 
@@ -36,7 +36,7 @@ Exercício 2 – Respondendo ao Usuário
 </details>
 
 <details>
- <summary> Tratando dados e fazendo contas </summary>
+<summary> Tratando dados e fazendo contas </summary>
 
 Aula 6 – Tipos Primitivos e Saída de Dados
 
@@ -71,7 +71,7 @@ Exercício 15 – Aluguel de Carros
 </details>
 
 <details>
- <summary> Usando módulos do Python </summary>
+<summary> Usando módulos do Python </summary>
 
 Aula 8 – Utilizando Módulos
 
@@ -104,7 +104,7 @@ Exercício 27 – Primeiro e último nome de uma pessoa
 </details>
 
 <details>
- <summary> Condições em Python (if..else) </summary>
+<summary> Condições em Python (if..else) </summary>
 
 Aula 10 – Condições (Parte 1)
 
@@ -127,14 +127,14 @@ Exercício 35 – Analisando Triângulo v1.0
 </details>
 
 <details>
- <summary> Adicionando cores ao Python </summary>
+<summary> Adicionando cores ao Python </summary>
 
 Aula 11 – Cores no Terminal
 
 </details>
 
 <details>
- <summary>Teste Python Mundo 1 </summary>
+<summary>Teste Python Mundo 1 </summary>
 </details>
 </details>
 <br></br>
@@ -145,12 +145,12 @@ Aula 11 – Cores no Terminal
 <summary> Mundo 2 </summary>
 
 <details>
- <summary> Introdução ao Mundo 2 </summary>
+<summary> Introdução ao Mundo 2 </summary>
 Aula 11 – Dicas e Regras 
 </details>
 
 <details>
- <summary> Condições em Python (if..elif) </summary>
+<summary> Condições em Python (if..elif) </summary>
 Aula 12 – Condições Aninhadas
 
 Exercício 36 – Aprovando Empréstimo
@@ -175,7 +175,7 @@ Exercício 45 – GAME: Pedra Papel e Tesoura
 </details>
 
 <details>
- <summary> Repetições em Python (for) </summary>
+<summary> Repetições em Python (for) </summary>
 
 Aula 13 – Estrutura de repetição for
 
@@ -204,7 +204,7 @@ Exercício 56 – Analisador completo
 </details>
 
 <details>
- <summary> Repetições em Python (while) </summary>
+<summary> Repetições em Python (while) </summary>
 
 Aula 14 – Estrutura de repetição while
 
@@ -243,6 +243,6 @@ Exercício 71 – Simulador de Caixa Eletrônico
 </details>
 
 <details>
- <summary> Teste Python Mundo 2 </summary>
+<summary> Teste Python Mundo 2 </summary>
 </details>
 ---
